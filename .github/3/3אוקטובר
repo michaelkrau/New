@@ -1,0 +1,120 @@
+```
+  לפני שתתחיל, פתח קריטריונים פנימיים למהי תשובה מצוינת.
+  דרג את התשובה שלך לפי הקריטריונים.
+  חזור על התהליך עד שהתוצאה מגיעה לציון 10/10.
+  ```
+
+‏<research_topic>
+‏  <title language="hebrew">
+    תפקיד המורה לחינוך גופני בקידום ערכים אזרחיים ודמוקרטיים 
+    בשיעורי החינוך הגופני: סקירת ספרות
+‏  </title>
+
+‏  <paper_type>עבודה עיונית- סקירת ספרות (Literature Review)</paper_type>
+‏  <methodology>סקירת ספרות(Thematic Synthesis)</methodology>
+‏  <expected_length>20-25 עמודים (לא כולל ביבליוגרפיה)</expected_length>
+‏</research_topic>
+
+‏<research_questions>
+‏  <main_question priority="central">
+    כיצד מציגה הספרות המחקרית את תפקיד המורה לחינוך גופני 
+    כמקדם ערכים אזרחיים ודמוקרטיים בשיעורי החינוך הגופני?
+‏  </main_question>
+
+-->
+
+<research_topic>
+  <title language="hebrew">
+    תפקיד המורה לחינוך גופני בקידום ערכים אזרחיים ודמוקרטיים 
+    בשיעורי החינוך הגופני: סקירת ספרות תיאורטית
+  </title>
+
+<writing_requirements>
+  
+  <tone>
+    <characteristic>אקדמי אך קריא ונגיש</characteristic>
+    <characteristic>אובייקטיבי ואנליטי</characteristic>
+    <characteristic>עברית שוטפת וטבעית (לא מתורגמת)</characteristic>
+    <characteristic>מקצועי אך לא רובוטי</characteristic>
+  </tone>
+  
+  <synthesis_approach priority="critical">
+    <instruction>
+      **חובה: סינתזה תמטית - לא כרונולוגית!**
+      אל תסכם מקור אחר מקור. שלב מקורות רבים יחד סביב תמות.
+    </instruction>
+    
+    <correct_example>
+      "המחקרים מצביעים על שלושה אתגרים מרכזיים בהטמעת חינוך ערכי 
+      (כהן, 2023; לוי, 2022; שמש, 2024). האתגר הראשון נוגע למגבלות זמן..."
+    </correct_example>
+    
+    <wrong_example>
+      "כהן (2023) אמר ש... לאחר מכן, לוי (2022) מצא ש... 
+      לבסוף, שמש (2024) טען ש..."
+    </wrong_example>
+  </synthesis_approach>
+  
+  <terminology_requirements>
+    <preferred_terms>
+      <term hebrew="סביבה חינוכית" avoid="זירה חינוכית">
+        השתמש ב"סביבה" ולא ב"זירה"
+      </term>
+      <term hebrew="דוגמה אישית" avoid="מודל לחיקוי, רול-מודל">
+        השתמש במונח העברי הטבעי
+      </term>
+      <term hebrew="מגרש הספורט" avoid="זירת הספורט">
+        "מגרש" טבעי יותר בעברית
+      </term>
+      <term hebrew="התנהלות מיטבית" avoid="התנהגות אופטימלית">
+        הימנע ממילים מתורגמות
+      </term>
+    </preferred_terms>
+    
+    <avoid_terms>
+      <term>זירה חינוכית</term>
+      <term>סוכן חברות / אגנט</term>
+      <term>אופטימלי (במקום מיטבי)</term>
+      <term>רול-מודל (במקום דוגמה אישית)</term>
+    </avoid_terms>
+  </terminology_requirements>
+  
+  <citation_format standard="APA 7">
+    <in_text_citations>
+      <single_author>(כהן, 2023)</single_author>
+      <two_authors>(כהן ולוי, 2023)</two_authors>
+      <three_plus_authors>(כהן ואחרים, 2023)</three_plus_authors>
+      <direct_quote>(כהן, 2023, עמ' 45)</direct_quote>
+      <multiple_sources>(כהן, 2023; לוי, 2022; שמש, 2024)</multiple_sources>
+    </in_text_citations>
+    
+    <narrative_citations>
+      <correct>כהן (2023) טוען כי...</correct>
+      <correct>לפי כהן (2023),...</correct>
+      <wrong>לפי כהן (2023) אמר ש...</wrong>
+    </narrative_citations>
+    
+
+<final_checklist>
+  
+  <content_quality>
+    <item>☐ כל הפרקים כתובים ומלאים</item>
+    <item>☐ יש תשובה ברורה לשאלת המחקר</item>
+    <item>☐ יש סינתזה תמטית (לא סיכום מקור-מקור)</item>
+    <item>☐ הדיון מקשר בין הפרקים</item>
+    <item>☐ המסקנות עולות מהתוכן</item>
+  </content_quality>
+    <structure_and_flow>
+    <item>☐ המבנה הגיוני וברור</item>
+    <item>☐ יש זרימה טובה בין הפרקים</item>
+    <item>☐ יש זרימה טובה בין הסעיפים</item>
+    <item>☐ כל פסקה עוסקת ברעיון אחד</item>
+    <item>☐ יש משפטי קישור בין רעיונות</item>
+  </structure_and_flow>
+  
+  <academic_integrity>
+    <item>☐ כל המקורות מצוטטים כראוי</item>
+    <item>☐ אין העתקות (פלגיאט)</item>
+    <item>☐ הרעיונות שלי מובחנים מרעיונות של אחרים</item>
+    <item>☐ העבודה כולה נכתבה על ידי בעצמי</item>
+  </academic_integrity>
